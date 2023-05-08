@@ -2,7 +2,7 @@
 
 ## Set Up Locally
 
-1. Create virtual envirnoment <br>
+1. Create virtual envirnoment <br> 
 ```python3 -m venv myenv``` <br>
 ```source myenv/bin/activate``` <br>
 
